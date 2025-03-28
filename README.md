@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LasseGuldhammer
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning Angular and RxJs
+- 🌱 I’m currently learning Umbraco, .NET and Lit
 
 <!---
 LasseGuldhammer/LasseGuldhammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
